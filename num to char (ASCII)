@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+	int a;
+	printf("entetr a number (65-90)or (97-122):");
+	scanf("%d",&a);
+	printf("corresponding to ASCII character %d is %c",a,a);
+}

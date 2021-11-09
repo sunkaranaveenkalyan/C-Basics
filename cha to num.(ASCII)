@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+	char a;
+	printf("Enter a character (a-z or A-Z):");
+	scanf("%c",&a);
+	printf("Corresponding ASCII character is %c is %d",a,a);
+}
