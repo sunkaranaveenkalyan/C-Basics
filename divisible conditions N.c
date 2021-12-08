@@ -41,4 +41,6 @@ void main()
 		printf("%d is divisible by 9",n); 
     }
     
+   
+   	
 }
